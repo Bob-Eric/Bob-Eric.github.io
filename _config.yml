@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Hongyu Cao"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+title                    : "曹鸿钰"
+description              : "做实用的机器人，做有趣的机器人。"
 repository               : "Bob-Eric/Bob-Eric.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Hongyu Cao(曹鸿钰)"
+  name             : "曹鸿钰"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Tianjin University"
-  location         : "Tianjing, China"
+  bio              : "天津大学"
+  location         : "天津市南开区卫津路92号"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=fw-w5goAAAAJ"
