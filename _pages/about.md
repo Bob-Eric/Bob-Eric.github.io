@@ -113,7 +113,7 @@ redirect_from:
   </div>
   <div class='paper-box-text' markdown="1">
 
-  **RoboMaster 2023赛季&emsp;联盟赛第一名&emsp;国赛二等奖&emsp;2022.9-2023.9**
+  **RoboMaster 2023赛季&emsp;联盟赛一等奖&emsp;超级对抗赛全国赛三等奖&emsp;2022.9-2023.9**
 
   负责哨兵机器人导航与决策功能。  
 
