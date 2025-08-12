@@ -30,8 +30,7 @@ redirect_from:
 
 + **编程：**熟练掌握Python、C++和C#，有嵌入式开发经验。
 + **机器人：**熟悉ROS，掌握主流定位与导航算法，具备丰富的机器人开发经验。
-+ **深度学习：**熟悉PyTorch，能独立设计和优化深度学习模型。
-+ **软件：**熟练使用SolidWorks、Vim、Docker与Unity，可用Valgrind等工具调试。
++ **AI与工具链：**能用PyTorch设计深度学习模型，熟练使用SolidWorks、Unity等工具
 
 ## 自我评价
 
